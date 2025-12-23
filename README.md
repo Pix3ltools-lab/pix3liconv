@@ -41,8 +41,8 @@ A simple and intuitive converter for PNG, JPEG, and SVG images to multi-resoluti
 1. Install Qt 6.9.1 or later with MinGW
 2. Clone the repository:
    ```bash
-   git clone https://github.com/Pix3ltools-lab/Pix3lIconv.git
-   cd Pix3lIconv
+   git clone https://github.com/Pix3ltools-lab/pix3liconv.git
+   cd pix3liconv
    ```
 3. Build the project:
    ```bash
