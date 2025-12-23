@@ -141,7 +141,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Pix3ltools-lab**
 - GitHub: [@Pix3ltools-lab](https://github.com/Pix3ltools-lab)
 - X (Twitter): [@pix3ltools](https://x.com/pix3ltools)
-- Email: pix3ltools@proton.me
 
 ## Acknowledgments
 
