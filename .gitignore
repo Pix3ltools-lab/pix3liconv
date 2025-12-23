@@ -1,0 +1,124 @@
+# C++ objects and libs
+*.o
+*.a
+*.so
+*.dll
+*.dylib
+
+# Qt-es
+/.qmake.cache
+/.qmake.stash
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.moc
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+*.qmlc
+*.jsc
+Makefile*
+*build-*
+*.qm
+.qmake.stash
+
+# Qt Creator
+*.autosave
+*.config
+*.creator
+*.creator.*
+*.files
+*.includes
+*.cflags
+*.cxxflags
+
+# QtCreator local machine specific files for imported projects
+*creator.user*
+
+# Build directories
+/debug/
+/release/
+/build/
+/build-*/
+Debug/
+Release/
+x64/
+
+# Generated files
+*_resource.rc
+*_plugin_import.cpp
+
+# MOC, RCC, UIC
+moc_predefs.h
+
+# Compiled Object files
+*.slo
+*.lo
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.dll.a
+
+# Compiled Static libraries
+*.lai
+*.la
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.user
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Temporary files
+*~
+*.swp
+*.swo
+*.tmp
+*.temp
+*.log
+*.bak
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE specific
+.vscode/
+.idea/
+*.iml
+.vs/
+
+# Deployment
+install/
+dist/
+
+# Claude Code
+.claude/
